@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TDMPA_2P_PR01</string>
+    <string-array name="Unidades">
+        <item>Unidades de Masa</item>
+        <item>Unidades de Longitud</item>
+    </string-array>
+
+    <string-array name="Longitud">
+        <item>Pulgada(In) a Centimetros</item>
+        <item>Pie(ft) a Metros(m)</item>
+        <item>Milla(mi) a Kilómetros(Km)</item>
+    </string-array>
+
+    <string-array name="Masa">
+        <item>Onza(oz) a Gramos(g)</item>
+        <item>Libra(lb) a Kilogramos(kg)</item>
+        <item>Ton(T) a Toneladas(Tn)</item>
+    </string-array>
+</resources>
